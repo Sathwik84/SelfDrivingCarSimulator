@@ -1,3 +1,5 @@
+**TOTAL PROJECT PROGRAMS ARE IN src/Simulator folder in this Repository**
+
 # 🚗 Self-Driving Car Simulator (JavaFX)
 
 A JavaFX-based **Self-Driving Car Simulation** environment that demonstrates basic **autonomous driving**, **reinforcement learning**, and **traffic signal interaction**.  
